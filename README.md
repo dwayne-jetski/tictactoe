@@ -1,3 +1,8 @@
+# tic-tac-toe
+
+# description
+a tic-tac-toe web app that allows to be able user to play a game of tic tac toe and saves the history.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
